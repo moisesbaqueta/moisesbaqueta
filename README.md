@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Moisés</h1>
 <h3 align="left">Welcome to my GitHub!</h3>
-
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/moisesepferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moisesepferreira" height="30" width="40" /></a>
