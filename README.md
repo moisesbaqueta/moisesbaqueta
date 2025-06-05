@@ -11,19 +11,22 @@
 <br><br>
 
 <div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=moisesbaqueta&show_icons=true&locale=en&theme=dark" 
-    alt="GitHub Stats" 
-  />
-
-  <br />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesbaqueta&show_icons=true&locale=en&layout=compact&theme=dark" 
-    alt="Top Languages" 
-  />
-
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=moisesbaqueta&show_icons=true&locale=en&theme=dark" 
+          alt="GitHub Stats" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesbaqueta&show_icons=true&locale=en&layout=compact&theme=dark" 
+          alt="Top Languages" 
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
